@@ -1,7 +1,7 @@
 # <img src="img/omnifold_logo.png" width="100"> OmniFold
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ericmetodiev/OmniFold/master)
 
-A method for universally unfolding collider data with machine learning-based reweighting. Check out the demo!
+A method for universally unfolding collider data with machine learning-based reweighting. Check out the [demo](https://mybinder.org/v2/gh/ericmetodiev/OmniFold/master?filepath=OmniFold%20Demo.ipynb)!
 
 Emily Dickinson, \#975  
 >The Mountain sat upon the Plain  
