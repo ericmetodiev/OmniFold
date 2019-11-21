@@ -1,4 +1,5 @@
 # <img src="img/omnifold_logo.png" width="100"> OmniFold
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ericmetodiev/OmniFold/master)
 
 A method for universally unfolding collider data with machine learning-based reweighting. Check out the demo!
 
