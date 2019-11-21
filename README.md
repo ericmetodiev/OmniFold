@@ -1,6 +1,6 @@
 # <img src="img/omnifold_logo.png" width="100"> OmniFold
 
-A method for universally unfolding collider data with machine learning-based reweighting.
+A method for universally unfolding collider data with machine learning-based reweighting. Check out the demo!
 
 
 Emily Dickinson, \#975  
