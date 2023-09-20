@@ -15,3 +15,5 @@ Emily Dickinson, \#975
 >Like Children round a sire&mdash;  
 >Grandfather of the Days is He  
 >Of Dawn, the Ancestor&mdash;  
+
+N.B. this repository is no longer maintained.  Please see [https://github.com/hep-lbdl/OmniFold](https://github.com/hep-lbdl/OmniFold) for a more active repository, which will continue to be updated with new features and integrate feedback.
